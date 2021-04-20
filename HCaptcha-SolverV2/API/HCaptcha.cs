@@ -1,5 +1,4 @@
 ﻿using HCaptcha_Solver.API;
-using HCaptcha_SolverV2.Classes;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using PuppeteerSharp;
